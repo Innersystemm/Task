@@ -1,0 +1,76 @@
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\XmlToDB.exe.config
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\XmlToDB.exe
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\XmlToDB.pdb
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.dll
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.xml
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csprojResolveAssemblyReference.cache
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\MainWindow.g.cs
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\App.g.cs
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB_MarkupCompile.cache
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB_MarkupCompile.lref
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\MainWindow.baml
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.g.resources
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.Properties.Resources.resources
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csproj.GenerateResource.Cache
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csproj.CoreCompileInputs.cache
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.exe
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.pdb
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB_Content.g.cs
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\db.mdf
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\db_log.ldf
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\XmlToDB.exe.config
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\XmlToDB.exe
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\XmlToDB.pdb
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\EntityFramework.dll
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\EntityFramework.xml
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csprojResolveAssemblyReference.cache
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\MainWindow.g.cs
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\App.g.cs
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB_MarkupCompile.cache
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB_MarkupCompile.lref
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\MainWindow.baml
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB.g.resources
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB.Properties.Resources.resources
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csproj.GenerateResource.Cache
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csproj.CoreCompileInputs.cache
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB.exe
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB.pdb
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\ReportWindow.g.cs
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\App.baml
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\ReportWindow.baml
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\db.mdf
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\bin\Debug\db_log.ldf
+C:\Users\Hynix\Documents\Visual Studio 2017\Projects\XmlToDB\XmlToDB\obj\Debug\XmlToDB_Content.g.cs
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\ReportWindow.g.cs
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\App.baml
+C:\Users\Wmtoo\source\repos\XmlToDB\XmlToDB\obj\Debug\ReportWindow.baml
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\XmlToDB.exe.config
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\XmlToDB.exe
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\XmlToDB.pdb
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.dll
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.xml
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\XmlToDB\XmlToDB\bin\Debug\ru\EntityFramework.resources.dll
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csprojResolveAssemblyReference.cache
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\MainWindow.g.cs
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\App.g.cs
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB_MarkupCompile.cache
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB_MarkupCompile.lref
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\App.baml
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\MainWindow.baml
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.g.resources
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.Properties.Resources.resources
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csproj.GenerateResource.Cache
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.csproj.CoreCompileInputs.cache
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.exe
+D:\Repos\XmlToDB\XmlToDB\obj\Debug\XmlToDB.pdb

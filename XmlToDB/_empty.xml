@@ -1,0 +1,1 @@
+<DataWrapper z:Id="i1" xmlns="http://schemas.datacontract.org/2004/07/XmlToDB.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><AvailableItems/><Items/><Manufacturers/></DataWrapper>
